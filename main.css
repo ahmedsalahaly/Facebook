@@ -1,0 +1,41 @@
+body
+{
+  background-color:rgb(221, 221, 221) !important;
+  margin: 20px !important;
+}
+.Boxes {
+  display: block;
+  text-align: center;
+}
+.Box1
+{
+  text-align: left;
+  display: inline-table;
+  width: 45%;
+  margin: 15px;
+  font-size: 25px;
+  margin-top: 100px;
+}
+.Box2
+{
+  height: 250px;
+  background-color: white;
+  display: inline-table;
+  box-shadow: rgba(0, 0, 0, 0.349) 0px 0px 3px 0px;
+  padding: 15px;
+  width: 30%;
+  margin: 15px;
+  font-size: 25px;
+  margin-top: 50px;
+}
+.forgettenpassword:hover
+{
+  text-decoration: underline;
+}
+.lastparagraph
+{
+  margin-left: 600px;
+  font-size: smaller;
+  text-decoration: none;
+  color: black;
+}
